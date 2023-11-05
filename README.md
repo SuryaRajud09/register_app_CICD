@@ -27,8 +27,6 @@
 
 <img width="1272" alt="Jenkins Dashboard" src="https://github.com/MSFaizi/register_app_CICD/assets/102685509/2c0e4d45-2862-471f-96ec-c230ccab54a2">
 
-<img width="1272" alt="Project Overview" src="https://github.com/MSFaizi/register_app_CICD/assets/102685509/bd78e5d4-e800-4dd9-8c1c-dbffbbbdfefa">
-
 <img width="1272" alt="Register-app-ci" src="https://github.com/MSFaizi/register_app_CICD/assets/102685509/9fc96f37-806d-4aeb-8b33-b0e3c082d3e2">
 
 <img width="1272" alt="Register-app-ci2" src="https://github.com/MSFaizi/register_app_CICD/assets/102685509/ae820f7b-b563-4971-a208-7ff7a6ef95e1">
