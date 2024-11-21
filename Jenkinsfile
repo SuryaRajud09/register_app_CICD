@@ -23,7 +23,7 @@ pipeline{
         }
         stage("Checkout from SCM"){
             steps{
-                git branch: 'main', credentialsId: 'github', url: 'https://github.com/MSFaizi/register-app.git'
+                git branch: 'main', credentialsId: 'github', url: 'https://github.com/MSFaizi/register_app_CICD.git'
             }
         }
         stage("Build Application"){
